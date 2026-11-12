@@ -4,12 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace naloga1
+namespace Pravokotnik
 {
+
+    public class  Pravokotnik
+    {
+        
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
+           
         }
     }
 }
